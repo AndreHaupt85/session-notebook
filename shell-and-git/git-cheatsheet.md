@@ -5,9 +5,9 @@ Befehl                      | Funktion                                          
 |git diff                   | ziegt Unterschiede in der Datei                                    |     |
 |git commit -m "text"       | commitmessage über die Änderung schreiben                          |     |
 |git commit -help           | zeigt die commit Help Seite an                                     |     |
-|git status                 | aktueller Status des Brunchs                                        |     |
+|git status                 | aktueller Status des Brunchs                                       |     |
 |git init                   | Repository lokal erstellen                                         |     |
-|git brunch-m main          |                                                                    |     |
+|git brunch -m main         | Name der Brunch ändern                                             |     |
 |git add dateiname          | gewählte datei zur Stage hinzufügen                                |     |
 |git add .                  | gesamten Ordner zur Stage hinzufügen                               |     |
 |git log                    | Versionshistorisuerung                                             |     |
