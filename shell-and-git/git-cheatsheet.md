@@ -15,6 +15,6 @@ Befehl                      | Funktion                                          
 |git pull                   | im aktuellen Brunch wird das Verzeichnis von Git aktualisiert      |     |
 |git branch                 | zeigt alle Branches                                                |     |
 |git switch main            | wechselt auf Main Branch                                           |     |
-|git fetch                  |                                                                    |     |
+|git fetch                  | aktueller Vergleich lokal und remote                               |     |
 |git checkout -b "name"     | Erstellt eine Brunch mit angegebenem Namen                         |     |
 |git branch --delete "name" | löschet den benannten Brunch                                       |     |
