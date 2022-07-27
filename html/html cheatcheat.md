@@ -2,7 +2,7 @@
 
 Befehl                      | Funktion                                                           |     |
 | ------------------------- | ------------------------------------------------------------------ | --- |
-|git diff                   | ziegt Unterschiede in der Datei                                    |     |
+|<strong> </strong>         | Fett.                                                              |     |
 |git commit -m "text"       | commitmessage über die Änderung schreiben                          |     |
 |git commit -help           | zeigt die commit Help Seite an                                     |     |
 |git status                 | aktueller Status des Brunchs                                       |     |
