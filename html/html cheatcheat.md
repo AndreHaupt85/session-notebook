@@ -12,5 +12,5 @@ Befehl                                    | Funktion                            
 |<section> </section>                     | Section Textblock                                                  |     |
 |<article> </article>                     | Article Textblock.                                                 |     |
 |<input type="text"/>                     | Eingabefeld                                                        |     |
-|a hfer="link"Text </a>                   | Hyperlink                                                          |     |
+|a href="link"Text </a>                   | Hyperlink                                                          |     |
 |<button type="submit">Text</button>      | Button einfügen                                                    |     |
